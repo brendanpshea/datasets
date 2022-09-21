@@ -1,3 +1,13 @@
+Cars CSV File
+From the CORGIS Dataset Project 
+
+
+
+By Austin Cory Bart acbart@vt.edu
+Version 2.0.0, created 11/3/2015
+Tags: cars, vehicles, fuel
+
+
 | **Key**                                         | **List of...** | **Comment**                                                                                                                                                                                                                    | **Example Value**                      |
 | ----------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
 | Dimensions.Height                               | Integer        | Unknown values are stored as 0. Unfortunately, many cars do not report this data.                                                                                                                                              | 140                                    |
